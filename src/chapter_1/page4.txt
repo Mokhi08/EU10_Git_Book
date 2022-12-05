@@ -1,0 +1,6 @@
+
+This is the page to practice commit and push.
+
+By pushing the local repo you can send them to remote repo.
+
+GitHub and Git are two different things.
