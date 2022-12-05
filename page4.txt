@@ -1,0 +1,6 @@
+
+This is the practice page to commit and push
+
+Git and GitHub are the different things
+
+Local repository and remote repository
