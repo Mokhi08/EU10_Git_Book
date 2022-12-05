@@ -1,6 +1,0 @@
-
-This is the page to practice commit and push functions.
-
-Git and GitHub are two different things.
-
-Local repository and remote repository.
