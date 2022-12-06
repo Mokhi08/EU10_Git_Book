@@ -2,3 +2,5 @@
 
 When you commit file will go to the local repository
 When you push it will go to remote repository
+
+You can fetch the files from remote repo to local and by updating you can have them in your computer
