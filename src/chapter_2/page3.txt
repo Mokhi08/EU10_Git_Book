@@ -1,0 +1,4 @@
+
+
+When you commit file will go to the local repository
+When you push it will go to remote repository
