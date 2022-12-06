@@ -1,3 +1,6 @@
 
 
 This page is to practice fetch, pull and update
+
+Pull and update are actually the same things, they are used to get the files or changes from remote to your comp
+Fetch is used just to read but you don't have them in your comp
